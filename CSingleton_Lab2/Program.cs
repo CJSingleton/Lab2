@@ -19,8 +19,8 @@ namespace CSingleton_Lab2
             do
             {
                 Console.WriteLine("Please enter the length of the room in feet (example: 24.5).");
-                Length = Convert.ToDouble(Console.ReadLine()); //First user input - all three inputs convert string data to 'Double' data type.
-
+                Length = Double.Parse(Console.ReadLine()); //First user input - all three inputs convert string data to 'Double' data type.
+                                                           //Changed 'Convert.ToDouble' to 'Double.Parse' - 7/17/2018
                 Console.WriteLine("Please enter the width of the room in feet (example: 12.2).");
                 Width = Convert.ToDouble(Console.ReadLine()); //Second user input
 
