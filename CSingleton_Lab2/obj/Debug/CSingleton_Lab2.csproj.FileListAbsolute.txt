@@ -1,0 +1,11 @@
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\bin\Debug\CSingleton_Lab2.exe.config
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\bin\Debug\CSingleton_Lab2.exe
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\bin\Debug\CSingleton_Lab2.pdb
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\bin\Debug\NodaTime.dll
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\bin\Debug\NodaTime.pdb
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\bin\Debug\NodaTime.xml
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\obj\Debug\CSingleton_Lab2.csprojAssemblyReference.cache
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\obj\Debug\CSingleton_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\obj\Debug\CSingleton_Lab2.csproj.CopyComplete
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\obj\Debug\CSingleton_Lab2.exe
+C:\Users\cjsin\GC_Labs\CSingleton_Lab2\CSingleton_Lab2\obj\Debug\CSingleton_Lab2.pdb

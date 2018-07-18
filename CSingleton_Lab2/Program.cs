@@ -35,7 +35,7 @@ namespace CSingleton_Lab2
 
                 //The following lines display the results of the calculations based on the user input.
 
-                Console.WriteLine("Area: "); Console.Write(Area); //Changed output technique - 7/17/18
+                Console.WriteLine($"Area: :{Area}"); //reverted to old technique
                 Console.WriteLine($"Perimeter: {Perimeter}");
                 Console.WriteLine($"Volume: {Volume}");
 
